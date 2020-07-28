@@ -1,0 +1,50 @@
+newmtl Metal 2
+illum 7
+Kd 0.215686 0.270588 0.301961
+adobe_interior_color 0.215686 0.270588 0.301961
+Ni 3
+adobe_density 0
+Tr 0.59
+d 0.41
+Ka 0 0 0
+Ke 0 0 0
+Pm 1
+adobe_translucence 0.62
+Pr 0.022
+Ns 16
+Ks 1 1 1
+adobe_glow 0.07
+
+newmtl Metal 18
+illum 7
+Kd 0.211765 0.266667 0.301961
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 1
+adobe_translucence 0
+Pr 0.022
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl Metal 18 2
+illum 7
+Kd 0.215686 0.270588 0.301961
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 1
+adobe_translucence 0
+Pr 0.022
+Ns 16
+Ks 1 1 1
+adobe_glow 0
